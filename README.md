@@ -1,7 +1,7 @@
 <div align="center">
  
  
-<img width="100%" src="https://raw.githubusercontent.com/MD-SelimReza/MD-SelimReza/main/banner.png" alt="cover" />
+<img width="100%" src="https://raw.githubusercontent.com/MD-SelimReza/MD-SelimReza/main/react-js-banner.png" alt="cover" />
 </div>
 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MD-SelimReza/MD-SelimReza/main/hi.gif" width="50px" height="50px">, I'm Selim</h1>  
